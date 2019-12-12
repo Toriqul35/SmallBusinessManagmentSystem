@@ -1,0 +1,707 @@
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.rsp
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.exe
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.rsp
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.rsp
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\EntityFramework.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\EntityFramework.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\AutoMapper.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.exe.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\csc.rsp
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.exe
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\csi.rsp
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.exe.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\vbc.rsp
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\AutoMapper.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\EntityFramework.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.BLL.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.Models.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\AutoMapper.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\EntityFramework.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Razor.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Helpers.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\System.Web.Mvc.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.Repository.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.csprojResolveAssemblyReference.cache
+F:\Shahadat\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\csc.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\csc.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\csc.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\csi.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\csi.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\vbc.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\vbc.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\AutoMapper.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Helpers.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Mvc.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.Repository.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\EntityFramework.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Helpers.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\System.Web.Mvc.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.Repository.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\obj\Debug\SBMS.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\obj\Debug\SBMS.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\obj\Debug\SBMS.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.dll.config
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\csc.exe
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\csc.exe.config
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\csc.rsp
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\csi.exe
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\csi.rsp
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\vbc.exe
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\vbc.exe.config
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\vbc.rsp
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+F:\ProjectSBMSgit\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+F:\ProjectSBMSgit\SBMS\SBMS\bin\AutoMapper.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\EntityFramework.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.BLL.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.Models.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Helpers.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Mvc.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Razor.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.Repository.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.BLL.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.Models.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\AutoMapper.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\EntityFramework.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Razor.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Helpers.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\System.Web.Mvc.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.Repository.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.Repository.dll.config
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+F:\ProjectSBMSgit\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+F:\ProjectSBMSgit\SBMS\SBMS\obj\Debug\SBMS.csprojResolveAssemblyReference.cache
+F:\ProjectSBMSgit\SBMS\SBMS\obj\Debug\SBMS.dll
+F:\ProjectSBMSgit\SBMS\SBMS\obj\Debug\SBMS.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\csc.exe
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\csc.exe.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\csc.rsp
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\csi.exe
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\csi.rsp
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\vbc.exe
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\vbc.exe.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\vbc.rsp
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\AutoMapper.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\EntityFramework.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.BLL.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.Models.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Helpers.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Mvc.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Razor.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.Repository.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.BLL.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.Models.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\AutoMapper.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\EntityFramework.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Razor.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Helpers.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\System.Web.Mvc.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.Repository.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.Repository.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\obj\Debug\SBMS.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\csc.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\csc.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\csc.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\csi.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\csi.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\vbc.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\vbc.rsp
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\AutoMapper.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Helpers.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Mvc.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.Repository.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\EntityFramework.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Helpers.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\System.Web.Mvc.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.Repository.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\obj\Debug\SBMS.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\obj\Debug\SBMS.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\csc.exe
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\csc.exe.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\csc.rsp
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\csi.exe
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\csi.rsp
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\vbc.exe
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\vbc.rsp
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\AutoMapper.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Helpers.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.Repository.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Helpers.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.Repository.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\obj\Debug\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\csc.exe
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\csc.exe.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\csc.rsp
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\csi.exe
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\csi.rsp
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\vbc.exe
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\vbc.rsp
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\AutoMapper.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Helpers.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.Repository.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\AutoMapper.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Helpers.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.Repository.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\obj\Debug\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\bin\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS\obj\Debug\SBMS.pdb

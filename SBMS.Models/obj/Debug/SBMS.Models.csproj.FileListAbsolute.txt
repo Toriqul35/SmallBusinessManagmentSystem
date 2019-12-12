@@ -1,0 +1,68 @@
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojAssemblyReference.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csproj.CoreCompileInputs.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojResolveAssemblyReference.cache
+F:\Shahadat\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojAssemblyReference.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csproj.CoreCompileInputs.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\obj\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\obj\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.Models\obj\Debug\SBMS.Models.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\obj\Debug\SBMS.Models.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\obj\Debug\SBMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\obj\Debug\SBMS.Models.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\obj\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.Models\obj\Debug\SBMS.Models.pdb

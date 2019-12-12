@@ -1,0 +1,104 @@
+﻿
+@model SBMS.Models.ProductViewModel
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="productSetup" class="container text-center">
+    <h3>Product Setup</h3>
+
+    <h4 class="h-position">Products</h4>
+    <hr class="hr-design">
+
+    <p>
+        <button class="btn btn-info" onclick="location.href='@Url.Action("Add", "Product")'"><span class="fa fa-plus admin-action-icon"></span>Add Product</button>
+    </p>
+    <!-- Search form -->
+    @using (Html.BeginForm())
+    {
+        <p class="form-inline active-cyan-4">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "search-key", @placeholder = "Search..." }, onchange = "this.form.submit();" })
+            <button type="submit" class="btn-sr"><i class="fa fa-search">Search</i></button>
+        </p>
+    }
+
+    <div class="row">
+        <br />
+        <div class="col-md-12" style="background: black"></div>
+        <div class="col-md-12" style="background: aquamarine"></div>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th style="width: 5%">SL</th>
+                    <th style="width: 10%">
+                        @Html.DisplayNameFor(model => model.Code)
+                    </th>
+                    <th style="width: 20%">
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th style="width: 15%">
+                        @Html.DisplayNameFor(model => model.CategoryId)
+                    </th>
+                    <th style="width: 8%">
+                        @Html.DisplayNameFor(model => model.ReorderLevel)
+                    </th>
+                    <th style="width: 20%">
+                        @Html.DisplayNameFor(model => model.Description)
+                    </th>
+                    @*<th style="width: 10%">
+                        @Html.DisplayNameFor(model => model.Image)
+                    </th>*@
+                    <th>Action</th>
+                </tr>
+            </thead>
+            @if (Model != null)
+            {
+                <tbody>
+                    @{ int sl = 1;}
+                    @foreach (var item in Model.Products)
+                {
+                        <tr>
+                            <td>
+                                @(sl++)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Code)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Category.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ReorderLevel)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+                            @*<td>
+                                <img width="100" height="100" src="~/images/ProductImages/@Html.DisplayFor(modelItem => item.Image)" alt="Image Not Available" class="img-circle" />
+                            </td>*@
+                            <td>
+                                <p class="btn btn-primary btn-sm admin-action-btn"><span class="fa fa-pencil-square-o admin-action-icon"></span>@Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "admin-action" })</p>
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                        }
+        </table>
+
+        <div class="col-md-12" style="background: black"></div>
+        <div class="col-md-12" style="background: aquamarine"></div>
+    </div>
+    
+
+    
+
+
+</div>
+
+

@@ -1,0 +1,127 @@
+﻿@model SBMS.Models.ProductViewModel
+@{
+    ViewBag.Title = "PeriodicIncomeExpenseOnPurchase";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="periodicIncomeExpenseOnPurchase" class="container text-center">
+    <h3>Periodic Income Expense On Purchase</h3>
+
+
+    @using (Html.BeginForm("PeriodicIncomeExpenseOnPurchase", "Reporting"))
+    {
+
+        <div class="row">
+            <br />
+            <div class="col-md-12" style="background: black"></div>
+            <div class="col-md-12" style="background: aquamarine"></div>
+            <div class="form-horizontal">
+                <h4 class="h-position">Expense Report On Purchase </h4>
+                <hr class="hr-design">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.StartDate, new { @class = "control-label col-md-3" })
+                            <div class="col-md-9">
+                                @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control" }, @value = DateTime.Now })
+                                @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.EndDate, new { @class = "control-label col-md-3" })
+                            <div class="col-md-9">
+                                @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control" }, @value = DateTime.Now })
+                                @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-8 col-md-4">
+                                <input type="submit" value="Search" class="btn btn-info" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" style="background: black"></div>
+            <div class="col-md-12" style="background: aquamarine"></div>
+        </div>
+
+    }
+    <div class="row">
+        <br />
+        <div class="col-md-12" style="background: black"></div>
+        <div class="col-md-12" style="background: aquamarine"></div>
+
+        <table class="table table-bordered table-striped table-hover table-responsive">
+            <thead>
+                <tr>
+                    <th>SL</th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Code)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CategoryId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TotalCostPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.SalesPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Profit)
+                    </th>
+                </tr>
+
+            </thead>
+            @if (Model != null)
+            {
+                <tbody>
+                    @{ int sl = 1;}
+                    @foreach (var item in Model.ProductsView)
+                    {
+                        <tr>
+                            <td>
+                                @(sl++)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Code)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CategoryName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TotalCostPrice)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.SalesPrice)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Profit)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            }
+        </table>
+
+        <div class="col-md-12" style="background: black"></div>
+        <div class="col-md-12" style="background: aquamarine"></div>
+    </div>
+
+
+
+</div>
+
+

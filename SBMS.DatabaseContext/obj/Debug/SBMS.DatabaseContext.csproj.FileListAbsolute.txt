@@ -1,0 +1,166 @@
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojResolveAssemblyReference.cache
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.Cache
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.Initial.resources
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.Migrations.AllDoneAboutLayerArchitecture.resources
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.DatabaseContext\obj\Debug\SBMS.DatabaseContext.pdb

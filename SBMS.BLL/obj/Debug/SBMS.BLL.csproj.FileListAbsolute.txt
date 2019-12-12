@@ -1,0 +1,244 @@
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+D:\Enlight Solutions Shahadat\EnlightSolutions\WorkStation\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojResolveAssemblyReference.cache
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+F:\Shahadat\Project_SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+D:\EN190512\WorkRepository\28082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\AutoMapper.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\AutoMapper.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\MdShahadat\Desktop\WorkStation\SBMS\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\AutoMapper.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\AutoMapper.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\29082019\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\AutoMapper.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\AutoMapper.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\promd\Desktop\WorkStation\01092019\Git\SBMS\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\SBMS.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Naiem\New folder\SBMS-master\SBMS-master\SBMS-master\SBMS.BLL\obj\Debug\SBMS.BLL.pdb
